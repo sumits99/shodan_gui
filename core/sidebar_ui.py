@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'sidebar.ui'
+# Form implementation generated from reading ui file '/Users/sumitsrivastava/Desktop/mac_apps/pyqt_apps/shodan_gui/core/sidebar.ui'
 #
 # Created by: PyQt6 UI code generator 6.7.0
 #
